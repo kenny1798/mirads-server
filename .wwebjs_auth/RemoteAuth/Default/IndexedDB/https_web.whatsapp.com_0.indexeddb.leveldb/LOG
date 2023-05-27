@@ -1,0 +1,6 @@
+2023/04/13-04:53:01.407 35cc Creating DB D:\JS Projects\project\server\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/04/13-04:53:01.512 35cc Reusing MANIFEST D:\JS Projects\project\server\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/13-04:53:01.861 380c Level-0 table #5: started
+2023/04/13-04:53:01.966 380c Level-0 table #5: 9111 bytes OK
+2023/04/13-04:53:02.043 380c Delete type=0 #3
+2023/04/13-04:53:02.044 380c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
